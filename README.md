@@ -31,9 +31,9 @@ This interactive web application lets you easily manage your daily tasks. Add ne
 
 ## 📸 Screenshots
 
-```markdown
+
 ![Add a Task Screenshot](https://github.com/Dorwu-Gabriel/dynamic-to-do-list-js/blob/main/To_Do_List_Demo.gif)
-```
+
 
 ---
 
